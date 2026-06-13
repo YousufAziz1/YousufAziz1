@@ -31,6 +31,6 @@
 
 ### 🌐 Connect With Me
 
-- X: https://x.com/BuildWithYousuf
+- X: [h](https://x.com/yousufaziz00)
 - Telegram: https://t.me/yousufaziz123
 - Website: https://show-my-work.vercel.app/
