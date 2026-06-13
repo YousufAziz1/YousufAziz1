@@ -1,67 +1,36 @@
-# Hi 👋, I'm Yousuf Aziz
+<h1 align="center">Hi 👋, I'm Yousuf Aziz</h1>
+<h3 align="center">🚀 AI Builder • Web3 Developer • Hackathon Builder</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Building+Web3+Products;Multi-Agent+AI+Developer;Shipping+In+Public" />
+</p>
 
+---
 
-🚀 Building AI Systems & Web3 Products
+### 🛠️ Tech Stack
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,solidity,mongodb,firebase,git,github,vscode" />
+</p>
 
+---
 
-## About Me
+### 📊 GitHub Stats
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YousufAziz1&show_icons=true&theme=tokyonight"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousufAziz1&layout=compact&theme=tokyonight"/>
 
-- 🔭 Working on AI Agents
+---
 
-- 🌱 Learning AI + Automation
+### 🔥 Contribution Streak
 
-- 💻 Building Web3 Projects
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YousufAziz1&theme=tokyonight" />
 
-- 🏆 Hackathon Builder
+---
 
-- 📫 Contact: https://t.me/yousufaziz123
+### 🌐 Connect With Me
 
-
-
-## Tech Stack
-
-
-
-- JavaScript
-
-- TypeScript
-
-- React
-
-- Next.js
-
-- Node.js
-
-- Solidity
-
-- AI Tools
-
-
-
-## GitHub Stats
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousufAziz1&show_icons=true)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YousufAziz1&layout=compact)
-<!--
-**YousufAziz1/YousufAziz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- X: https://x.com/BuildWithYousuf
+- Telegram: https://t.me/yousufaziz123
+- Website: https://show-my-work.vercel.app/
